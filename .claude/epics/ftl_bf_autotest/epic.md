@@ -4,7 +4,7 @@ status: backlog
 created: 2025-09-06T15:16:44Z
 progress: 0%
 prd: .claude/prds/ftl_bf_autotest.md
-github: [Will be updated when synced to GitHub]
+github: https://github.com/yuanann/ftl-bf-autotest-framework/issues/1
 ---
 
 # Epic: ftl_bf_autotest
@@ -167,18 +167,18 @@ ftl_autotest/
 - **持續溝通**與團隊保持密切協作，及時調整實作策略
 
 ## Tasks Created
-- [ ] 001.md - 專案初始化與環境建置 (parallel: true)
-- [ ] 002.md - 核心工具類別開發 (parallel: true)
-- [ ] 003.md - Playwright 與 Stagehand 整合基礎 (parallel: false)
-- [ ] 004.md - 登入功能模組實作 (parallel: true)
-- [ ] 005.md - 登入功能測試案例開發 (parallel: true)
-- [ ] 006.md - 系統設定模組測試實作 (parallel: true)
-- [ ] 007.md - 測試報告與截圖系統實作 (parallel: true)
-- [ ] 008.md - 錯誤處理與重試機制實作 (parallel: true)
-- [ ] 009.md - 業務功能模組擴展 (parallel: true)
-- [ ] 010.md - 測試執行框架與文件完善 (parallel: false)
+- [ ] #10 - 業務功能模組擴展 (parallel: true)
+- [ ] #11 - 測試執行框架與文件完善 (parallel: false)
+- [ ] #2 - 專案初始化與環境建置 (parallel: true)
+- [ ] #3 - 核心工具類別開發 (parallel: true)
+- [ ] #4 - Playwright 與 Stagehand 整合基礎 (parallel: false)
+- [ ] #5 - 登入功能模組實作 (parallel: true)
+- [ ] #6 - 登入功能測試案例開發 (parallel: true)
+- [ ] #7 - 系統設定模組測試實作 (parallel: true)
+- [ ] #8 - 測試報告與截圖系統實作 (parallel: true)
+- [ ] #9 - 錯誤處理與重試機制實作 (parallel: true)
 
-Total tasks: 10
-Parallel tasks: 8
+Total tasks:       10
+Parallel tasks:        8
 Sequential tasks: 2
 Estimated total effort: 90-128 hours
